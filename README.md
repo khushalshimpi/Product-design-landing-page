@@ -27,7 +27,7 @@ Project  built from using
 **&**
 ![HTML](https://img.shields.io/badge/CSS3-blue)
 
-[Click Me]() to see the project Demo.
+[Click Me](https://fantastic-mochi-c0d8bd.netlify.app/) to see the project Demo.
 
 
 
